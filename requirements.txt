@@ -1,2 +1,1 @@
-cherrypy == latest
-
+CherryPy==18.6.1
